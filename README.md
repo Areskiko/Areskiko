@@ -5,3 +5,6 @@ Student at NTNU
 ### The projects I am currently working on
 * [Ababot](https://github.com/areskiko/ababot)
 * [Vortex](https://github.com/vortexntnu)
+
+# Noteworthy repos
+ * [NTNU Subjects](https://github.com/Areskiko/NTNU-Fag)
