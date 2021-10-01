@@ -8,3 +8,4 @@ Student at NTNU
 
 # Noteworthy repos
  * [NTNU Subjects](https://github.com/Areskiko/NTNU-Fag)
+ * [pmxutils](https://github.com/Areskiko/pmxutils)
