@@ -1,11 +1,9 @@
 # About me
-Student at NTNU
+M.Sc Computer Science student at NTNU
 
-# Active projects
-### The projects I am currently working on
-* [Ababot](https://github.com/areskiko/ababot)
-* [Vortex](https://github.com/vortexntnu)
+## Webpage
+![Webpage](folk.ntnu.no/stefamac/)
 
-# Noteworthy repos
- * [NTNU Subjects](https://github.com/Areskiko/NTNU-Fag)
- * [pmxutils](https://github.com/Areskiko/pmxutils)
+## CV
+![CV](https://github.com/Areskiko/Curriculum-Vitae/raw/master/cv.pdf)
+![src](https://github.com/Areskiko/Curriculum-Vitae)
